@@ -1,0 +1,5 @@
+{
+  "name": "@jcansdale-test/execute-me",
+  "version": "0.0.1",
+  "bin": "./index.js"
+}
